@@ -1,0 +1,53 @@
+{
+ "address": "1CG6obEGoFL1fjAoNaxUnemgKES7Zh9YBG",
+ "address_index": 34500861,
+ "background-color": "#FFF",
+ "clone_root": "template-new",
+ "cloneable": true,
+ "cloned_from": "1HeLLo4uzjaLetFx6NH3PMwFP3qbRbTf3D",
+ "description": "Clone this file hub template to create your own IFS file hub type",
+ "files": {
+  "data-default/channel.json": {
+   "sha512": "2871588beca3a3c1dfe2a5310162f304c93e4bee17feccb166f6fef40c9fb604",
+   "size": 65
+  },
+  "data/channel.json": {
+   "sha512": "6e7ccf205bad95ffda1f2a8ea9ab74908de5d22fb5a259739a6309380348451a",
+   "size": 494
+  },
+  "index.html": {
+   "sha512": "c204124c81c6e36701f3aebba36bace7edc065b0a6f96009475670e2bcd61250",
+   "size": 1166
+  },
+  "js/ZeroFrame.js": {
+   "sha512": "090a43d18dcd1aa836b0d160631fe958f9fabd761af712e8eed6f7e010c0dd76",
+   "size": 2409
+  }
+ },
+ "files_optional": {
+  "uploads/games/Airwolf_U_.nes": {
+   "sha512": "462f86b6e0e1ca7896cffeb2ba81585b7fe809672ca222949cabf7d5e4e56656",
+   "size": 163856
+  }
+ },
+ "ignore": "",
+ "inner_path": "content.json",
+ "merged_type": "IFS",
+ "modified": 1484663287,
+ "optional": "(uploads)",
+ "postmessage_nonce_security": true,
+ "sign": [
+  12780694691335100796635535627824025243385475894435562627024887870945979082532,
+  31801651688829489591347209295387126857921894963118154256111239260794740666610
+ ],
+ "signers_sign": "HFBMbIK+FLVvjm+X9DwX1l920R+gb9S/akTwFIcXZO3tIJA1J6E75zhVehtVrmPLAny5noRNVDfl5a8fJSVEmFc=",
+ "signs": {
+  "1CG6obEGoFL1fjAoNaxUnemgKES7Zh9YBG": "G7Ks/rxgNVKb0xMQ8aJ7sRxCgTSwgZSF0THcBWr+bP+L42kGUzG9h4VmfwStx0FrVMyRLo4+zOQIsdMDxpJ2QfY="
+ },
+ "signs_required": 1,
+ "title": "IFS Filehub master slim",
+ "translate": [
+  "js/all.js"
+ ],
+ "zeronet_version": "0.5.1"
+}

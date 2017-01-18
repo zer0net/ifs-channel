@@ -7,45 +7,69 @@
  "cloned_from": "1HeLLo4uzjaLetFx6NH3PMwFP3qbRbTf3D",
  "description": "Clone this file hub template to create your own IFS file hub type",
  "files": {
-  "data-default/channel.json": {
+  "README.md": {
+   "sha512": "82e4f1a9d4108219aa1c9e9936da0ea5cc416158de7d79072bfea99db7f16f61",
+   "size": 27
+  },
+  "data/channel.json": {
+   "sha512": "340ec0133bcc1189a931dffa0d04d8fadd11d45f8a60c66650427fa108fc6477",
+   "size": 1420
+  },
+  "index.html": {
+   "sha512": "e7e0e5a6f1d1a6d9749fcb49fe9853918ce984fe0edd51a9ff193da90c4fbd9b",
+   "size": 1260
+  },
+  "js/ZeroFrame.js": {
+   "sha512": "090a43d18dcd1aa836b0d160631fe958f9fabd761af712e8eed6f7e010c0dd76",
+   "size": 2409
+  },
+  "template-new/content.json-default": {
+   "sha512": "4bd7557cea828c8900d5e4815679f143587dbb6d1828ba2945169e79167584c2",
+   "size": 577
+  },
+  "template-new/data/channel.json": {
    "sha512": "2871588beca3a3c1dfe2a5310162f304c93e4bee17feccb166f6fef40c9fb604",
    "size": 65
   },
-  "data/channel.json": {
-   "sha512": "6e7ccf205bad95ffda1f2a8ea9ab74908de5d22fb5a259739a6309380348451a",
-   "size": 494
+  "template-new/index.html": {
+   "sha512": "dc518dde726fa012ad4c5efb70be715c59e392721beb9b37439fead079bc495a",
+   "size": 1236
   },
-  "index.html": {
-   "sha512": "c204124c81c6e36701f3aebba36bace7edc065b0a6f96009475670e2bcd61250",
-   "size": 1166
-  },
-  "js/ZeroFrame.js": {
+  "template-new/js/ZeroFrame.js": {
    "sha512": "090a43d18dcd1aa836b0d160631fe958f9fabd761af712e8eed6f7e010c0dd76",
    "size": 2409
   }
  },
  "files_optional": {
+  "uploads/games/1943___The_Battle_of_Midway_U_.nes": {
+   "sha512": "5b1eae4e646dbef125810e18ecbfa296239162c31c04622afa9c22a173903ebc",
+   "size": 131088
+  },
+  "uploads/games/720_U_.nes": {
+   "sha512": "7670ec9eb83aa4421ca3a084fdc70094ecebb83312365356d7423f1c591ae2b6",
+   "size": 131088
+  },
   "uploads/games/Airwolf_U_.nes": {
    "sha512": "462f86b6e0e1ca7896cffeb2ba81585b7fe809672ca222949cabf7d5e4e56656",
    "size": 163856
   }
  },
- "ignore": "",
+ "ignore": "(.git)",
  "inner_path": "content.json",
  "merged_type": "IFS",
- "modified": 1484663287,
+ "modified": 1484733888,
  "optional": "(uploads)",
  "postmessage_nonce_security": true,
  "sign": [
-  12780694691335100796635535627824025243385475894435562627024887870945979082532,
-  31801651688829489591347209295387126857921894963118154256111239260794740666610
+  48887196022600037300617686303672262873383202184607667970867591896052792066259,
+  50649396946364796628263562581677632692932182088327717145912714844637202742273
  ],
  "signers_sign": "HFBMbIK+FLVvjm+X9DwX1l920R+gb9S/akTwFIcXZO3tIJA1J6E75zhVehtVrmPLAny5noRNVDfl5a8fJSVEmFc=",
  "signs": {
-  "1CG6obEGoFL1fjAoNaxUnemgKES7Zh9YBG": "G7Ks/rxgNVKb0xMQ8aJ7sRxCgTSwgZSF0THcBWr+bP+L42kGUzG9h4VmfwStx0FrVMyRLo4+zOQIsdMDxpJ2QfY="
+  "1CG6obEGoFL1fjAoNaxUnemgKES7Zh9YBG": "G1tD3JlCFX/6RAlxENnQKcoH/NSl9RiFveTHl1nA44xozAexCfcclfX1r6eC0GuH4vNEq1diUsgGG54OK22OX4c="
  },
  "signs_required": 1,
- "title": "IFS Filehub master slim",
+ "title": "IFS Filehub master",
  "translate": [
   "js/all.js"
  ],

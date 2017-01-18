@@ -1,0 +1,26 @@
+{
+	"address": "1CG6obEGoFL1fjAoNaxUnemgKES7Zh9YBG",
+	"background-color": "#FFF",
+	"clone_root": "template-new",
+	"cloned_from": "1CG6obEGoFL1fjAoNaxUnemgKES7Zh9YBG",
+	"description": "Clone file hub template to create your own IFS file hub type",
+	"files": {
+	},
+	"ignore": "",
+	"inner_path": "content.json",
+	"modified": 1481393762.773,
+	"postmessage_nonce_security": true,
+	"merged_type": "IFS",		
+ 	"optional": "(uploads)",
+	"sign": [
+	],
+	"signers_sign": "",
+	"signs": {
+	},
+	"signs_required": 1,
+	"title": " IFS Filehub",
+	"translate": [
+		"js/all.js"
+	],
+	"zeronet_version": "0.5.1"
+}

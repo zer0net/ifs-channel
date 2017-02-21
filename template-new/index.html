@@ -24,7 +24,7 @@ class Page extends ZeroFrame {
 			"Firstly, sign & publish the site"+
 			"<br>then copy this address " + site_info.address +			
 			"<br> back to <a href='/12MVkvYGcRW6u2NYbpfwVad1oQeyG4s9Er/register.html'>IFS</a> for registering"+
-			"<br> click on 'user' menu above to select your channel"+
+			"<br> click on 'My Channels' in header to see your channel"+
 			"<br> upload your stuff there and have fun !" 			
 	}
 
@@ -34,9 +34,9 @@ class Page extends ZeroFrame {
 		})
 	}
 
-	onRequest(cmd, message) {
+	onRequest(cmd, message) {		
 		if (cmd == "setSiteInfo")
-			this.setSiteInfo(message.params)
+			this.setSiteInfo(message.params)			
 		else
 			this.log("Unknown incoming message:", cmd)
 	}

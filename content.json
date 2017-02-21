@@ -12,28 +12,28 @@
    "size": 27
   },
   "data/channel.json": {
-   "sha512": "340ec0133bcc1189a931dffa0d04d8fadd11d45f8a60c66650427fa108fc6477",
-   "size": 1420
+   "sha512": "5a24c347e9a183865708d51d0cd5f9740a2bd92fa57dd79adce0880c2c1dee17",
+   "size": 1964
   },
   "index.html": {
-   "sha512": "e7e0e5a6f1d1a6d9749fcb49fe9853918ce984fe0edd51a9ff193da90c4fbd9b",
-   "size": 1260
+   "sha512": "12db08be6bc456a8eb1ee0e47b68375c64727c059ad0d5ee88d8641d17f17a8c",
+   "size": 1242
   },
   "js/ZeroFrame.js": {
    "sha512": "090a43d18dcd1aa836b0d160631fe958f9fabd761af712e8eed6f7e010c0dd76",
    "size": 2409
   },
   "template-new/content.json-default": {
-   "sha512": "4bd7557cea828c8900d5e4815679f143587dbb6d1828ba2945169e79167584c2",
-   "size": 577
+   "sha512": "7bbda9b6134a52c0b83becd70182117d6f6cfa7139892dc66ab3e409d3bff0d1",
+   "size": 589
   },
   "template-new/data/channel.json": {
    "sha512": "2871588beca3a3c1dfe2a5310162f304c93e4bee17feccb166f6fef40c9fb604",
    "size": 65
   },
   "template-new/index.html": {
-   "sha512": "dc518dde726fa012ad4c5efb70be715c59e392721beb9b37439fead079bc495a",
-   "size": 1236
+   "sha512": "e2df1a3a6ad1192c32dc5f2724f915087766047644fc12358c34a8444417f6d1",
+   "size": 1246
   },
   "template-new/js/ZeroFrame.js": {
    "sha512": "090a43d18dcd1aa836b0d160631fe958f9fabd761af712e8eed6f7e010c0dd76",
@@ -57,21 +57,21 @@
  "ignore": "(.git)",
  "inner_path": "content.json",
  "merged_type": "IFS",
- "modified": 1484733888,
+ "modified": 1487694164,
  "optional": "(uploads)",
  "postmessage_nonce_security": true,
  "sign": [
-  48887196022600037300617686303672262873383202184607667970867591896052792066259,
-  50649396946364796628263562581677632692932182088327717145912714844637202742273
+  41292185974013694261074202446160990958374024515355248636814133511788723611517,
+  44544427285350794838261619485225979663510408531649070401874193408939472253773
  ],
  "signers_sign": "HFBMbIK+FLVvjm+X9DwX1l920R+gb9S/akTwFIcXZO3tIJA1J6E75zhVehtVrmPLAny5noRNVDfl5a8fJSVEmFc=",
  "signs": {
-  "1CG6obEGoFL1fjAoNaxUnemgKES7Zh9YBG": "G1tD3JlCFX/6RAlxENnQKcoH/NSl9RiFveTHl1nA44xozAexCfcclfX1r6eC0GuH4vNEq1diUsgGG54OK22OX4c="
+  "1CG6obEGoFL1fjAoNaxUnemgKES7Zh9YBG": "HGUdz1+fQtJJo1bJpf07/YCmDAL2es1SBytL0weSNWHlNGhwDeGH57Ab0NLSmKq1Xtreb9QntdS6lLdLLGRLVcA="
  },
  "signs_required": 1,
  "title": "IFS Filehub master",
  "translate": [
   "js/all.js"
  ],
- "zeronet_version": "0.5.1"
+ "zeronet_version": "0.5.2"
 }
